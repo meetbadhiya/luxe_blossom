@@ -1,0 +1,4 @@
+In my navigation bar HTML code, add a dropdown menu only under the "Women" link. 
+When I hover on "Women", it should show options like "Perfume", "Body Mist", "Luxury Collection", and "Gift Set". 
+Also, update the CSS so that the dropdown appears nicely below "Women" on hover. 
+Keep the rest of the navbar and existing dropdowns unchanged.
