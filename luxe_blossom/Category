@@ -1,0 +1,27 @@
+<li><a href="#">Home</a></li>
+
+<!-- Men Dropdown -->
+<li class="dropdown">
+    <a href="#">Men</a>
+    <ul class="dropdown-menu">
+        <li><a href="men_perfume.php">Perfume</a></li>
+        <li><a href="men_deodorant.php">Deodorant</a></li>
+        <li><a href="men_giftset.php">Gift Set</a></li>
+    </ul>
+</li>
+
+<!-- Women Dropdown -->
+<li class="dropdown">
+    <a href="#">Women</a>
+    <ul class="dropdown-menu">
+        <li><a href="women_perfume.php">Perfume</a></li>
+        <li><a href="women_deodorant.php">Deodorant</a></li>
+        <li><a href="women_giftset.php">Gift Set</a></li>
+    </ul>
+</li>
+
+<li><a href="#">Gift</a></li>
+<li><a href="#">About Us</a></li>
+<li><a href="login.php">Login</a></li>
+<li><a href="registration.php">Register</a></li>
+<li><a href="#" class="cart-icon" id="cart-icon">🛒 Cart (<span id="cart-count">0</span>)</a></li>
