@@ -1,0 +1,39 @@
+.checkout-btn:hover {
+  background-color: #d4a977;
+}
+
+/* -------- Dropdown Menu CSS -------- */
+nav ul li {
+  position: relative;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  min-width: 150px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+  z-index: 999;
+}
+
+.dropdown-menu li {
+  display: block;
+}
+
+.dropdown-menu li a {
+  padding: 10px;
+  display: block;
+  color: black;
+  text-decoration: none;
+}
+
+.dropdown-menu li a:hover {
+  background-color: #f4f4f4;
+}
+
+/* Hover pe dropdown show hoga */
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
