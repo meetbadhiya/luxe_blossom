@@ -1,0 +1,4 @@
+In my navigation bar HTML code, add a dropdown menu only under the "Men" link. 
+When I hover on "Men", it should show options like "Perfume", "Deodorant", "Body Spray", and "Luxury". 
+Also, update the CSS so that the dropdown appears nicely below "Men" on hover.
+Keep the rest of the navbar the same.
